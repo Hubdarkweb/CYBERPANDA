@@ -236,8 +236,8 @@ npm i -g forever && forever index.js && forever save && forever logs
   
    ## `Special Thanks To`
 
-* [`📕 Lord No Name..!!`](https://github.com/Anime-King01)
-* * [`📕 Cod3Uchiha`](https://github.com/Cod3Uchiha)
+* [`📕 🐼🗽☣️🥷📱🪳🖥️🥷☣️🐼..!!`](https://github.com/Hubdarkweb)
+* * [`📕 🐼🗽 TOpPLUG 🪳🗽🐼🪲🕷️🪳💻🐛`](https://github.com/Hubdarkweb)
  
   * ⧉ 𝐓𝐇𝐀𝐍𝐊𝐒 𝐅𝐎𝐑 𝐓𝐇𝐄 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 ⧉
   * BADBOI HACKER IS ACTIVE 😂😂😂
