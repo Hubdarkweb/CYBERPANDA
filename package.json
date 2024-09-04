@@ -1,5 +1,5 @@
 {
-    "name": "BADBOI-v2",
+    "name": "🐼🕷CYBERPANDA🕷🐼",
     "version": "6.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
     "main": "index.js",
@@ -14,7 +14,7 @@
     "scripts": {
         "start": "node index.js"
     },
-    "author": "DGXeon",
+    "author": "🐼🕷CYBERPANDA🕷🐼",
     "license": "MIT",
     "dependencies": {
         "@whiskeysockets/baileys": "^6.7.5",
