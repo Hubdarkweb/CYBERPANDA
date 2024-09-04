@@ -112,7 +112,7 @@ npm start
 </br>
  
 
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a><a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
+<a><img src='https://i.imgur.com/Gw7jtD0.jpeg'/></a><a><img src='https://i.imgur.com/Gw7jtD0.jpeg'/></a>
 # Termux Deployment
 ```
 termux-setup-storage
