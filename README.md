@@ -3,7 +3,7 @@
 
 <h1 align="center">ꪶ🐼🕷CYBERPANDA🕷🐼-BUGꫂ<br></h1>
 <p align="center">
-<img src="https://telegra.ph/file/2fc766ab7467ded0fac9c.png" />
+<img src="https://i.imgur.com/Gw7jtD0.jpeg" />
 </p>
 
 <p align="center">
