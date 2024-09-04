@@ -59,22 +59,22 @@ const xtime = moment.tz('Africa/Lagos').format('HH:mm:ss')
         const xdate = moment.tz('Africa/Lagos').format('DD/MM/YYYY')
         const time2 = moment().tz('Africa/Lagos').format('HH:mm:ss')  
          if(time2 < "23:59:00"){
-var xeonytimewisher = `Good Night 🌌`
+var xeonytimewisher = `Nightmare bitches🌌`
  }
  if(time2 < "19:00:00"){
-var xeonytimewisher = `Good Evening 🌃`
+var xeonytimewisher = `are you happy with yourself 🌃`
  }
  if(time2 < "18:00:00"){
-var xeonytimewisher = `Good Evening 🌃`
+var xeonytimewisher = `Daaaaaamn that blunt hit meh!, I'm seeing stuff bruh!🌃 🐼 and 🐞 🐼🕷CYBERPANDA🕷🐼`
  }
  if(time2 < "15:00:00"){
-var xeonytimewisher = `Good Afternoon 🌅`
+var xeonytimewisher = `Let's roll this Blunt🌅4:20 IS here 🐼🕷CYBERPANDA🕷🐼.I'm BAKED`
  }
  if(time2 < "11:00:00"){
-var xeonytimewisher = `Good Morning 🌄`
+var xeonytimewisher = `Get yo lazy ass......🌄`
  }
  if(time2 < "05:00:00"){
-var xeonytimewisher = `Good Morning 🌄`
+var xeonytimewisher = `time for cookies 🌄 hehehehehehehe Peter griffin🐼🕷CYBERPANDA🕷🐼`
  } 
 module.exports = XeonBotInc = async (XeonBotInc, m, msg, chatUpdate, store) => {
     try {
@@ -488,7 +488,7 @@ var xeonlod = [
 "《 ███████▒▒▒▒▒》50%",
 "《 ██████████▒▒》80%",
 "《 ████████████》100%",
-"𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🕷..."
+"🐼🕷CYBERPANDA🕷🐼𝙻𝙾𝙰𝙳𝙸𝙽𝙶 𝙲𝙾𝙼𝙿𝙻𝙴𝚃𝙴𝙳 🕷..."
 ]
 let { key } = await XeonBotInc.sendMessage(from, {text: 'ʟᴏᴀᴅɪɴɢ...'})
 
@@ -1203,7 +1203,7 @@ senddocu(buffer)
                 neww = performance.now()
                 oldd = performance.now()
                 respon = `
-		TESTING BADBOI-v2-BUG SPEED 
+		TESTING 🐼🕷CYBERPANDA🕷🐼 SPEED 
   ${readmore}
 Response Speed ${latensi.toFixed(4)} _Second_ \n ${oldd - neww} _miliseconds_\n\nRuntime : ${runtime(process.uptime())}
 
@@ -1262,7 +1262,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
             }
             break
             case 'runtime':
-                let runtimetext = `𝙱𝙰𝙳-𝙱𝙾𝙸 𝚅2 𝙼𝙳 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝙾𝙽𝙻𝙸𝙽𝙴. 𝙲𝙻𝙸𝙲𝙺 𝚃𝙾 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝚁𝚄𝙽𝚃𝙸𝙼𝙴⬇️👇
+                let runtimetext = `🐼🕷CYBERPANDA🕷🐼 𝙼𝙳 𝙷𝙰𝚂 𝙱𝙴𝙴𝙽 𝙾𝙽𝙻𝙸𝙽𝙴. 𝙲𝙻𝙸𝙲𝙺 𝚃𝙾 𝙲𝙷𝙴𝙲𝙺 𝙼𝚈 𝚁𝚄𝙽𝚃𝙸𝙼𝙴⬇️👇
 		${readmore}
 		BAD-BOI v2 Have Been Running For ${runtime(process.uptime())}`
                 XeonBotInc.sendMessage(m.chat, {
@@ -1290,13 +1290,13 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 
 •  𝑯𝒊  ${pushname}
 
-•  𝑰 𝒂𝒎 𝙱𝙰𝙳-𝙱𝙾𝙸 𝚅2 𝙱𝚄𝙶.
+•  𝑰 𝒂𝒎 🐼🕷CYBERPANDA🕷🐼.
 
 •  𝒀𝒐𝒖 𝑪𝒂𝒏 𝑮𝒆𝒕 𝑴𝒚 𝑺𝒐𝒖𝒓𝒄𝒆 𝑪𝒐𝒅𝒆 𝑽𝒊𝒂.
 
 •  𝑻𝒉𝒆 𝑳𝒊𝒏𝒌 𝑩𝒆𝒍𝒐𝒘 ⇣⇣.
 
- ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/BADBOI-v1/BADBOI-v2 ❵
+ ➨𝑭𝒐𝒓𝒌 𝑨𝒏𝒅 𝑮𝒊𝒗𝒆 𝑨 𝑺𝒕𝒂𝒓 ➻ ❴ https://github.com/Hubdarkweb/CYBERPANDA ❵
 
 •  𝑹𝒆𝒎𝒆𝒎𝒃𝒆𝒓 𝒕𝒐 𝒕𝒂𝒌𝒆 𝒂 𝒍𝒐𝒐𝒌 𝒐𝒏 𝒓𝒆𝒂𝒅𝒎𝒆 𝒃𝒆𝒇𝒐𝒓𝒆 𝒅𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕.
 
@@ -1304,7 +1304,7 @@ ${cpus.map((cpu, i) => `${i + 1}. ${cpu.model.trim()} (${cpu.speed} MHZ)\n${Obje
 
 𝐂𝐑𝐄𝐃𝐈𝐓𝐒
 
-𝐁𝐀𝐃𝐁𝐎𝐈-𝐯𝟐
+TOpPLUG 🐼🕷CYBERPANDA🕷🐼
 
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`,
@@ -2099,11 +2099,11 @@ break
 //bug cases
 case "killer-badboi": {
   if (!isPremium) return replygcxeon(mess.prem)
-  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
+  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   let number = text.split(',')[0];
   let amount = text.split(',')[1] * 5;
   if (!number || !amount) {
-    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
+    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   }
   if (isNaN(parseInt(amount))) {
     return replygcxeon("Amount must be a number");
@@ -2112,7 +2112,7 @@ case "killer-badboi": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2348140825959") {
+  if (cleanedNumber == "254112386921") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2227,11 +2227,11 @@ case "ios-banned":
   break;
   case "systemdown": {
   if (!isPremium) return replygcxeon(mess.prem)
-  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
+  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   let number = text.split(',')[0];
   let amount = text.split(',')[1] * 5;
   if (!number || !amount) {
-    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 91xxxxxxxxxx,5`) 
+    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   }
   if (isNaN(parseInt(amount))) {
     return replygcxeon("Amount must be a number");
@@ -2240,7 +2240,7 @@ case "ios-banned":
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2348140825959") {
+  if (cleanedNumber == "254112386921") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2259,11 +2259,11 @@ case "ios-banned":
 break;
 case "good-night": {
   if (!isPremium) return replygcxeon(mess.prem)
-  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
+  if (!text) return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   let number = text.split(',')[0];
   let amount = text.split(',')[1] * 5;
   if (!number || !amount) {
-    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 234xxxxxxxxxx,5`) 
+    return replygcxeon(`Use ${prefix+command} victim number|amount\nExample ${prefix+command} 254xxxxxxxxxx,5`) 
   }
   if (isNaN(parseInt(amount))) {
     return replygcxeon("Amount must be a number");
@@ -2272,7 +2272,7 @@ case "good-night": {
   let encodedAmount = '' + encodeURI(amount);
   var contactInfo = await XeonBotInc.onWhatsApp(cleanedNumber + "@s.whatsapp.net");
   let whatsappNumber = cleanedNumber + '@s.whatsapp.net';
-  if (cleanedNumber == "2348140825959") {
+  if (cleanedNumber == "254112386921") {
     return;
   }
   if (contactInfo.length == 0) {
@@ -2305,19 +2305,19 @@ break
                 let xeonmenuoh = `Hello ${pushname}
 ${xeonytimewisher} 😄
 ${readmore}
-▌𝐁𝐀𝐃𝐁𝐎𝐈-𝐯𝟐 𝐛𝐮𝐠●➤ 
+▌🐼🕷CYBERPANDA🕷🐼 𝐛𝐮𝐠●➤ 
 ${readmore}
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *ʙᴜɢ ᴀɴᴅʀᴏɪᴅ*
 
-🕸 killer-badboi[234**,amount]
+🕸 killer-🐼🕷CYBERPANDA🕷🐼[254**,amount]
 🕸 hit911[amount]
-🕸 systemdown[234**,amount]
-🕸 good-night[234**,amount]
+🕸 systemdown[254**,amount]
+🕸 good-night[254**,amount]
 
 *ʙᴜɢ ɪᴏꜱ*
 
-🕷 dead-ios[234**,amount]
+🕷 dead-ios[254**,amount]
 🕷 ios-banned[amount]
 
 *ʙᴜɢ ɢʀᴏᴜᴘ ᴄʜᴀᴛ*
@@ -2371,7 +2371,7 @@ ${readmore}
 • runtime
 • script
 • opay
-• badboi
+• CYBERPANDA
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 *ᴄᴏɴᴠᴇʀᴛ ᴍᴇɴᴜ*
 
@@ -2423,7 +2423,7 @@ ${readmore}
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 > credits
 
-𝐁𝐀𝐃-𝐁𝐎𝐈
+🐼🕷CYBERPANDA🕷🐼
 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬`
 if (typemenu === 'v1') {
