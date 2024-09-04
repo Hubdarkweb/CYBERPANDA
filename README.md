@@ -208,17 +208,17 @@ npm i -g forever && forever index.js && forever save && forever logs
 ## 🎯 Authors 🎯
   <div align="center">
   
-| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Hubdarkweb.png?size=150)](https://github.com/BADBOI-v1) |
+| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Hubdarkweb.png?size=150)](https://github.com/Hubdarkweb) |
 |----|
-| [  Badboi Hacker](https://github.com/Hubdarkweb) |
+| [🗽📱🐼☣️🥷TOpPLUG](https://github.com/Hubdarkweb) |
 |  Developer |
 
   </div>
   <div align="center">
   
-| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Anime-King01.png?size=150)](https://github.com/Anime-King01) |
+| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Anime-King01.png?size=150)](https://github.com/Hubdarkweb) |
 |----|
-| [  Lord No Name](https://github.com/Anime-King01) |
+| [🐼🥷 Cyber-Panda☣️🐼🥷](https://github.com/Anime-King01) |
 |  Co-Developer |
 
   </div>
